@@ -6,6 +6,8 @@ This repo serves merely as a reminder for me on how to get the cedilla working p
 Tested only on Linux Mint 21.1 Cinnamon (Ubuntu 22.04), but the original tutorial was using versions
 as old as 11.04.
 
+**Reference: https://askubuntu.com/questions/39837/how-do-i-make-cedilla-%c3%a7-character-available-in-english-usa/39863#39863**
+
 ## The fix
 
 ### First step:
